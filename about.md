@@ -4,7 +4,7 @@ name: About Me
 ---
 
 <div class="blurb">
-  <style> .indented { padding-left: 50pt; padding-right: 50pt; } </style>
+  
 
 <h1>About Me</h1>
   <br/>
